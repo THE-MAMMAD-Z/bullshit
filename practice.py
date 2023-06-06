@@ -11,9 +11,11 @@ mydb = mysql.connector.connect(
   user="root",
   password="sezar1381"
 )
-
+asfasdfsafzvczv
 mycursor = mydb.cursor()
 mycursor.execute("SHOW DATABASES")
-
+zvzcvzvzv
+derlkewrk
+fodaiperi
 for x in mycursor:
   print(x)
